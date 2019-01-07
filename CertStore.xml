@@ -4,6 +4,7 @@
         <constant name="_version" type="integer" value="21"/>
         <!--
             Give this singleton a key.
+		NUEVO COMENTARIO
         -->
         <field isKey="true" name="name" type="string"/>
         <!-- 
